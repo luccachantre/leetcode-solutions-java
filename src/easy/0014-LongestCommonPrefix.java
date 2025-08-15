@@ -1,3 +1,4 @@
+package easy;
 
 //My Explanation: 
 //honestly I don't fully understand this solution still

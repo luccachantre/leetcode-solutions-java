@@ -1,3 +1,6 @@
+package medium;
+
+//package medium;
 //My explanation:
 //a very important thing to remember is that its an array of characters, not ints
 //so you have to check grid[i][i] == '1', not grid[i][j] == 1
